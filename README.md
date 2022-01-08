@@ -2,13 +2,11 @@
 
 # Ejercicios Prácticos 💪 
 
-En este repositorio encontrarás una gran variedad de ejercicios que van desde temas como tipos de datos básicos (enteros, flotantes, booleanos, caracteres y strings) hasta la programación orientada a objetos. Todo esto con el objetivo de que mejores tus habilidades en la resolución de problemas y así convertirte en un mejor programador el día de mañana.
+En este repositorio encontrarás una gran variedad de ejercicios que van desde temas como tipos de datos básicos hasta la programación orientada a objetos.
 
 ## Preguntas y Respuestas 💡
 
 Contarás con un foro en el mismo repositorio (Discussions) donde podrás escribir tus dudas y preguntas sobre aquellos ejercicios en los cuales no sepas encontrar una solución o tengas confusión respecto a su enunciado. 
-
-No dudes en ningún instante de escribir porque así de esta manera, podremos ayudarnos entre todos para así obtener la solución a todos los ejercicios de cada una de las guías diseñadas.
 
 ## Apoya este trabajo 💕
 
