@@ -1,3 +1,5 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/alexanyernas/Ejercicios-Practicos?color=%23229395&label=Last%20commit&logo=git&logoColor=%23fff&style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/alexanyernas/Ejercicios-Practicos?color=%237acbcd&logo=github&logoColor=%23fff&style=for-the-badge)
+
 # Ejercicios Prácticos 💪 
 
 En este repositorio encontrarás una gran variedad de ejercicios que van desde temas como tipos de datos básicos (enteros, flotantes, booleanos, caracteres y strings) hasta la programación orientada a objetos. Todo esto con el objetivo de que mejores tus habilidades en la resolución de problemas y así convertirte en un mejor programador el día de mañana.
